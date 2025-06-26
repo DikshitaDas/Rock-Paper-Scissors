@@ -21,8 +21,6 @@
   <img src="https://github.com/DikshitaDas/Rock-Paper-Scissors/blob/main/Screenshot%202025-06-26%20125844.png" alt="Game Preview" width="500"/>
 </div>
 
-> Replace `preview.gif` with your own screen recording or screenshot.
-
 ---
 
 ## 🚀 Features
